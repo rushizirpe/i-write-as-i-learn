@@ -1,7 +1,7 @@
 # **Repository of Medium Articles**
 This repository contains a collection of public articles written by me on Medium. The articles cover a variety of topics including Machine Leanring, programming, data science, and more.
 
-# ** Table of Contents**
+# **Table of Contents**
 The following is a list of articles available in this repository:
 
 ## Machine Learning:
@@ -12,7 +12,7 @@ The following is a list of articles available in this repository:
 [Stochastic Gradient Descent (SGD)](https://medium.com/@thisisrishi/stochastic-gradient-descent-sgd-48ae56c2bd5a)<br>
 
 
-# Technical
+## Technical
 [Mastering Markdown: A Beginner’s Guide to Formatting on Github](https://medium.com/@thisisrishi/mastering-markdown-a-beginners-guide-to-formatting-on-github-2ed8c1dc8819)<br>
 
 
