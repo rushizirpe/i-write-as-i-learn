@@ -11,6 +11,7 @@ The following is a list of articles available in this repository:
 [Understanding of Gradient Descent: Intuition and Implementation](https://medium.com/@thisisrishi/understanding-of-gradient-descent-intuition-and-implementation-b1f98b3645ea)<br>
 [Stochastic Gradient Descent (SGD)](https://medium.com/@thisisrishi/stochastic-gradient-descent-sgd-48ae56c2bd5a)<br>
 [Linear Regression: A Beginner’s Guide](https://medium.com/@thisisrishi/linear-regression-a-beginners-guide-with-code-implementation-and-mathematical-explanation-7b0bc7595f9c)<br>
+[Demystifying Decision Trees: A Comprehensive Guide to Understanding and Implementaation](https://medium.com/@thisisrishi/demystifying-decision-trees-a-comprehensive-guide-to-understanding-and-implementing-648b8083e87f)<br>
 
 
 ## Technical
