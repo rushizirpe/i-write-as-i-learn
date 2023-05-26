@@ -12,13 +12,15 @@ The following is a list of articles available in this repository:
 [Stochastic Gradient Descent (SGD)](https://medium.com/@thisisrishi/stochastic-gradient-descent-sgd-48ae56c2bd5a)<br>
 [Linear Regression: A Beginner’s Guide](https://medium.com/@thisisrishi/linear-regression-a-beginners-guide-with-code-implementation-and-mathematical-explanation-7b0bc7595f9c)<br>
 [Demystifying Decision Trees: A Comprehensive Guide to Understanding and Implementaation](https://medium.com/@thisisrishi/demystifying-decision-trees-a-comprehensive-guide-to-understanding-and-implementing-648b8083e87f)<br>
+[A Simple Convolutional Neural Network (CNN) Model](https://medium.com/@thisisrishi/a-simple-convolutional-neural-network-cnn-model-85ef45e50c64)<br>
 
 
-## Technical
+
+## Github
 [Mastering Markdown: A Beginner’s Guide to Formatting on Github](https://medium.com/@thisisrishi/mastering-markdown-a-beginners-guide-to-formatting-on-github-2ed8c1dc8819)<br>
 
 
-## **Contributing**
+## **Contributions**
 Contributions are welcome! If you would like to add your own articles to the repository, please feel free to submit a pull request.
 
 
