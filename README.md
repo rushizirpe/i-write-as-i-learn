@@ -15,7 +15,6 @@ The following is a list of articles available in this repository:
 [A Simple Convolutional Neural Network (CNN) Model](https://medium.com/@thisisrishi/a-simple-convolutional-neural-network-cnn-model-85ef45e50c64)<br>
 
 
-
 ## Github
 [Mastering Markdown: A Beginner’s Guide to Formatting on Github](https://medium.com/@thisisrishi/mastering-markdown-a-beginners-guide-to-formatting-on-github-2ed8c1dc8819)<br>
 
