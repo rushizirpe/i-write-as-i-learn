@@ -13,6 +13,12 @@ The following is a list of articles available in this repository:
 [Linear Regression: A Beginner’s Guide](https://medium.com/@thisisrishi/linear-regression-a-beginners-guide-with-code-implementation-and-mathematical-explanation-7b0bc7595f9c)<br>
 [Demystifying Decision Trees: A Comprehensive Guide to Understanding and Implementaation](https://medium.com/@thisisrishi/demystifying-decision-trees-a-comprehensive-guide-to-understanding-and-implementing-648b8083e87f)<br>
 [A Simple Convolutional Neural Network (CNN) Model](https://medium.com/@thisisrishi/a-simple-convolutional-neural-network-cnn-model-85ef45e50c64)<br>
+[Simply Explained: Attention Mechanisms - A Journey without Jargon](https://medium.com/@thisisrishi/simply-explained-attention-mechanisms-a-journey-without-jargon-ce810d27e507)<br>
+[Introduction to Mixtral 8x7B!](https://medium.com/@thisisrishi/introduction-to-mixtral-8x7b-c80dd160b989)<br>
+[Retrieval-Augmented Generation (RAG) Simplified!](https://medium.com/@thisisrishi/retrieval-augmented-generation-rag-simplified-1e6b73d7928d)<br>
+[Reinforcement Learning with Human Feedback in LLMs: A Comprehensive Guide](https://medium.com/@thisisrishi/reinforcement-learning-with-human-feedback-in-llms-a-comprehensive-guide-771b381e94e7)<br>
+[Direct Preference Optimization (DPO) in LLMs](https://medium.com/@thisisrishi/direct-preference-optimization-dpo-in-llms-21225b991f4e)<br>
+[The Power of Model Compression: Guide to Pruning, Quantization, and Distillation in Machine Learning](https://medium.com/@thisisrishi/the-power-of-model-compression-guide-to-pruning-quantization-and-distillation-in-machine-dbc6d28bd3a3)<br>
 
 
 ## Github
